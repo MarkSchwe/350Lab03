@@ -1,3 +1,7 @@
+/*
+LAB03 TASK08
+Mark Schweitzer
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
